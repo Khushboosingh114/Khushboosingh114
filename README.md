@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khushboosingh114
+- 👋 Hi, I’m @Khushboosingh
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning codings
 - 💞️ I’m looking to collaborate on ...
