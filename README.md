@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Khushboosingh
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech 
 - 🌱 I’m currently learning codings
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach  me
+- khushboosingh4117190@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
