@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khushboosingh
-- 👀 I’m interested in tech 
-- 🌱 I’m currently learning codings
+- 👋 Hi, I’m Khushboo Singh
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach  me
 - khushboosingh4117190@gmail.com
