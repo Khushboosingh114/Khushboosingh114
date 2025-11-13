@@ -12,7 +12,7 @@ I enjoy solving problems through clean and efficient code and have developed pro
 - www.linkedin.com/in/khushboo-singh-01211730b
 - khushboosingh4117190@gmail.com
 - 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her      
 - 
 - ⚡ Fun fact: I love solving coding challenges, exploring new technologies, and turning creative ideas into practical software solutions for fun!...
 
