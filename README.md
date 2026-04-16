@@ -3,6 +3,7 @@
 👀 I’m interested in learning Python, SQL, Statistics, NumPy, Pandas, Matplotlib, PowerBI, Tableau, Problem solving, Analytical Thinking, communication.
 
 🌱 I’m currentlypursuing MCA and building my skills in Data Science, focusing on Python, SQL, and data analysis.
+
 💞️ I’m looking for opportunities to apply my skills in Data Science and gain practical experience in a real-world environment. 
 
 📫 How to reach  me
